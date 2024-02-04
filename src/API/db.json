@@ -1,0 +1,21 @@
+
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Producto 1",
+        "price": 19.99,
+        "description": "Descripción del Producto 1",
+        "image": "url_de_la_imagen_1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Producto 2",
+        "price": 29.99,
+        "description": "Descripción del Producto 2",
+        "image": "url_de_la_imagen_2.jpg"
+      }
+
+    ]
+  }
+  
